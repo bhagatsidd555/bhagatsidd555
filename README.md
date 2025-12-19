@@ -30,7 +30,7 @@ Here are some areas I actively work on:
 ### 🔹 Generative AI
 - 🎙️ **Voice-based AI applications** using Whisper + GPT  
 - 🧠 AI assistants capable of understanding both **voice and text**
-
+-    I have Build chatbot Using the RAG.
 ---
 
 ## 🛠️ Skills & Expertise
