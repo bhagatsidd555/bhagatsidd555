@@ -1,105 +1,45 @@
+👋 Hi, I'm Siddheshwar Bhagat
 
-# 👋 Hi, I'm Siddheshwar Bhagat  
+🚀 I am an Aspiring Data Scientist & AI Developer with a strong interest in building intelligent, real-world AI systems using Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI. I enjoy solving complex problems and converting ideas into practical, scalable AI solutions.
 
-🚀 **Aspiring Data Scientist & AI Developer** passionate about building intelligent systems using **Machine Learning, NLP, and Generative AI**.  
-I enjoy transforming ideas into real-world AI solutions and continuously strengthening my technical foundation.
+🧠 I work across the end-to-end AI/ML stack, focusing on both learning fundamentals and applying them through projects. My experience includes data analysis, model building, chatbot development, and GenAI applications, with special interest in Retrieval-Augmented Generation (RAG) and LLM-based systems.
 
----
+💻 What I Work On
 
-## 🧠 What I Do
-I work across the AI/ML stack with a strong focus on practical implementation:
+Python programming and data analysis for insights and modeling
 
-- 💻 **Python Programming & Data Analysis**
-- 🤖 **Machine Learning & Deep Learning**
-- 🧠 **Artificial Intelligence & NLP Projects**
-- 🤝 **Building Intelligent Assistants & Chatbots**
+Machine Learning models (Regression, Classification, Clustering)
 
----
+Deep Learning and NLP-based applications
 
-## 💻 Projects & Work
-Here are some areas I actively work on:
+Building intelligent chatbots and virtual assistants, including multilingual Rasa bots
 
-### 🔹 AI Chatbots
-- 🌐 **Multilingual Rasa Chatbot** (English, Hindi, Marathi, Spanish)  
-- 🏥 **Medical Assistant Bots** using advanced NLP techniques  
+Developing RAG-based chatbots using LangChain, vector databases, and embeddings
 
-### 🔹 Machine Learning
-- 📈 Regression, Classification & Clustering models  
-- 📊 Polynomial Regression, Random Forest, SVM, and more  
+Voice-enabled AI systems using Whisper + GPT
 
-### 🔹 Generative AI
-- 🎙️ **Voice-based AI applications** using Whisper + GPT  
-- 🧠 AI assistants capable of understanding both **voice and text**
--    I have Build chatbot Using the RAG.
----
+🛠️ Technical Skill Set
 
-## 🛠️ Skills & Expertise
+Languages & Data: Python, SQL, Pandas, NumPy
 
-### 🔹 Languages
-- Python, SQL  
+ML & AI: Scikit-learn, TensorFlow, PyTorch, Keras, NLP tools
 
-### 🔹 Data & BI Tools
-- Excel, Power BI, Power Query  
-- Tableau, PowerPoint  
-- MySQL  
+GenAI: LLMs, RAG, LangChain, LangGraph, FAISS, Pinecone, ChromaDB
 
-### 🔹 Frameworks & Libraries
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib, Seaborn  
-- TensorFlow, PyTorch, Keras  
-- NLTK, OpenCV  
+Backend & Tools: FastAPI, Git, GitHub, Docker, CI/CD
 
-### 🔹 AI & GenAI Technologies
-- Chatbot Development  
-- LangChain, LangGraph  
-- Retrieval-Augmented Generation (RAG)  
-- Vector Databases: FAISS, Pinecone, ChromaDB  
-- Embeddings & Semantic Search  
-- Large Language Models (LLMs)  
-- ChatGPT  
+Visualization & BI: Matplotlib, Seaborn, Power BI, Tableau
 
-### 🔹 Backend & DevOps
-- FastAPI  
-- CI/CD Pipeline  
-- Git, GitHub  
-- Docker  
+🌱 I believe in continuous learning and improvement, and I actively:
 
----
+Learn new AI, GenAI, and LLM techniques
 
-## 📘 Relevant Coursework
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing (NLP)  
-- Generative AI (GenAI)  
-- Large Language Models (LLMs)  
-- Probability & Statistics  
-- Data Analytics  
+Read research papers and technical blogs
 
----
+Participate in AI & Data Science communities
 
-## 🧩 Soft Skills
-- Strong Analytical Skills  
-- Problem-Solving  
-- Adaptability  
-- Excellent Communication  
-- Collaboration  
-- Critical Thinking  
+⭐ I am open to opportunities, collaborations, and challenging roles in Data Science, AI Engineering, and Generative AI, where I can learn, contribute, and grow.
 
----
+📧 Email: adityabhagat350@gmail.com
 
-## 🌐 Connect With Me
-- 💼 **LinkedIn:** [Siddheshwar Bhagat](https://www.linkedin.com/in/siddheshwar-bhagat-b70613236/)  
-- 📧 **Email:** adityabhagat350@gmail.com  
-
----
-
-## 🧠 Always Learning
-I strongly believe in continuous growth and improvement. I enjoy:
-- 📚 Learning new **AI & Generative AI techniques**
-- 🔍 Reading research papers & technical blogs
-- 🤝 Participating in AI & Data Science communities  
-
----
-
-⭐ *Open to opportunities, collaborations, and challenging AI/ML projects.*
+💼 LinkedIn: Siddheshwar Bhagat
