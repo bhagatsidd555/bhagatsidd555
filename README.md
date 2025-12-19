@@ -41,8 +41,8 @@ Here are some things I am working on:
 ---
 
 ## 🌐 Connect with Me
-**LinkedIn:** https://www.linkedin.com/in/your-linkedin  
-**Email:** your-email@example.com
+**LinkedIn:https://www.linkedin.com/in/siddheshwar-bhagat-b70613236/  
+Email: adityabhagat60@gmail.com
 
 ---
 
