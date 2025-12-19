@@ -42,7 +42,7 @@ Here are some things I am working on:
 
 ## 🌐 Connect with Me
 **LinkedIn:https://www.linkedin.com/in/siddheshwar-bhagat-b70613236/  
-Email: adityabhagat60@gmail.com
+Email: adityabhagat350@gmail.com
 
 ---
 
