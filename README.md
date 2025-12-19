@@ -1,14 +1,5 @@
-## 🔥 Why This Profile Stands Out
 
-✅ Professional & recruiter-friendly  
-✅ Clear structure with well-defined headings  
-✅ Strong focus on AI, Machine Learning & Data Science  
-✅ Demonstrates continuous learning and real-world projects  
-✅ Visually clean and impactful GitHub profile  
-
----
-
-# 👋 Hi, I'm Siddhesh Bhagat  
+# 👋 Hi, I'm Siddheshwar Bhagat  
 
 🚀 **Aspiring Data Scientist & AI Developer** passionate about building intelligent systems using **Machine Learning, NLP, and Generative AI**.  
 I enjoy transforming ideas into real-world AI solutions and continuously strengthening my technical foundation.
