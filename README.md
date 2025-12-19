@@ -42,4 +42,5 @@ Participate in AI & Data Science communities
 
 📧 Email: adityabhagat350@gmail.com
 
-💼 LinkedIn: Siddheshwar Bhagat
+💼 LinkedIn: www.linkedin.com/in/siddheshwar-bhagat-b70613236
+
