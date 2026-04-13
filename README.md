@@ -1,6 +1,6 @@
 👋 Hi, I'm Siddheshwar Bhagat
 
-🚀 I am an Aspiring Data Scientist & AI Developer with a strong interest in building intelligent, real-world AI systems using Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI. I enjoy solving complex problems and converting ideas into practical, scalable AI solutions.
+🚀 I am an Aspiring AI/ML Engineer  with a strong interest in building intelligent, real-world AI systems using Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI. I enjoy solving complex problems and converting ideas into practical, scalable AI solutions.
 
 🧠 I work across the end-to-end AI/ML stack, focusing on both learning fundamentals and applying them through projects. My experience includes data analysis, model building, chatbot development, and GenAI applications, with special interest in Retrieval-Augmented Generation (RAG) and LLM-based systems.
 
