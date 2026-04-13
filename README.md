@@ -1,46 +1,118 @@
-👋 Hi, I'm Siddheshwar Bhagat
+# 👋 Hi, I'm Siddheshwar Bhagat
 
-🚀 I am an Aspiring AI/ML Engineer  with a strong interest in building intelligent, real-world AI systems using Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI. I enjoy solving complex problems and converting ideas into practical, scalable AI solutions.
+🚀 ** AI Engineer | Generative AI | RAG Systems | Backend AI Developer**
 
-🧠 I work across the end-to-end AI/ML stack, focusing on both learning fundamentals and applying them through projects. My experience includes data analysis, model building, chatbot development, and GenAI applications, with special interest in Retrieval-Augmented Generation (RAG) and LLM-based systems.
+I am an AI Engineer with 2+ years of experience building **scalable AI-powered systems**, enterprise-grade **RAG pipelines**, and **customer-facing AI products**.
 
-💻 What I Work On
+I specialize in transforming complex AI concepts into **real-world, production-ready solutions** with measurable impact.
 
-Python programming and data analysis for insights and modeling
+---
 
-Machine Learning models (Regression, Classification, Clustering)
+## 💼 Professional Experience
 
-Deep Learning and NLP-based applications
+### 🧠 AI Engineer — Maxgen Technology (Feb 2024 – Present)
 
-Building intelligent chatbots and virtual assistants, including multilingual Rasa bots
+- Led development of an **AI-driven airport energy optimization system**
+- Achieved **20–30% reduction in energy consumption**
+- Built **FastAPI backend services** handling 500+ real-time inference requests/day
+- Implemented **LSTM & regression models** for predictive optimization
+- Designed monitoring dashboards reducing manual effort by **35%**
+- Collaborated with clients → improved satisfaction by **25%**
 
-Developing RAG-based chatbots using LangChain, vector databases, and embeddings
+---
 
-Voice-enabled AI systems using Whisper + GPT
+### 📊 Data Scientist Intern — PHN Technology (Apr 2023 – Jul 2023)
 
-🛠️ Technical Skill Set
+- Performed **EDA & data preprocessing** on large datasets
+- Built **Tableau dashboards** used by 5+ stakeholders
+- Reduced reporting time from **2 days → 4 hours**
+- Delivered insights that influenced **strategic decisions**
 
-Languages & Data: Python, SQL, Pandas, NumPy
+---
 
-ML & AI: Scikit-learn, TensorFlow, PyTorch, Keras, NLP tools
+## 🚀 Featured Projects
 
-GenAI: LLMs, RAG, LangChain, LangGraph, FAISS, Pinecone, ChromaDB
+### 🤖 Ritilink AI Assistant (Enterprise RAG Chatbot)
 
-Backend & Tools: FastAPI, Git, GitHub, Docker, CI/CD
+- Built using **LangChain + FAISS (RAG architecture)**
+- Resolved **70%+ queries automatically**
+- Reduced resolution time by **40%**
+- Supports:
+  - Multilingual chatbot
+  - Lead management system
+  - Scalable API (1000+ concurrent users)
 
-Visualization & BI: Matplotlib, Seaborn, Power BI, Tableau
+---
 
-🌱 I believe in continuous learning and improvement, and I actively:
+### 🧴 DermAI — AI Dermatology Assistant
 
-Learn new AI, GenAI, and LLM techniques
+- CNN-based model with **91%+ accuracy**
+- Integrated **LLM + RAG chatbot for medical guidance**
+- MERN + FastAPI full-stack system
+- Automated PDF reports → reduced manual work by **60%**
 
-Read research papers and technical blogs
+---
 
-Participate in AI & Data Science communities
+## 🛠️ Tech Stack
 
-⭐ I am open to opportunities, collaborations, and challenging roles in Data Science, AI Engineering, and Generative AI, where I can learn, contribute, and grow.
+### 💻 Programming & Data
+- Python, SQL, C#
+- Pandas, NumPy
 
-📧 Email: adityabhagat350@gmail.com
+### 🤖 AI / ML
+- Machine Learning, Deep Learning
+- NLP, Computer Vision
+- TensorFlow, PyTorch, Keras, Scikit-learn
 
-💼 LinkedIn: www.linkedin.com/in/siddheshwar-bhagat-b70613236
+### 🧠 Generative AI
+- LLMs, RAG
+- LangChain, LangGraph
+- FAISS, Pinecone, ChromaDB
 
+### ⚙️ Backend & Tools
+- FastAPI, REST APIs
+- Docker, Git, GitHub
+- Microservices Architecture
+
+### 📊 Visualization
+- Matplotlib, Seaborn
+- Power BI, Tableau
+
+### ☁️ Cloud
+- AWS (Cloud Practitioner)
+
+---
+
+## 🌱 What I Focus On
+
+- Building **production-level AI systems**
+- Designing **scalable backend architectures**
+- Developing **RAG & LLM-powered applications**
+- Creating **real-world impact using AI**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: adityabhagat350@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/siddheshwar-bhagat-b70613236  
+- 💻 GitHub: https://github.com/bhagatsidd555  
+
+---
+
+## ⭐ Open To Opportunities
+
+I am actively looking for roles in:
+
+- AI Engineer  
+- Machine Learning Engineer  
+- Data Scientist  
+- Generative AI Engineer  
+
+💡 Open to collaborations, freelance projects, and innovative AI work.
+
+---
+
+### ⚡ Fun Fact
+
+I love turning **ideas → AI products → real-world impact** 🚀
