@@ -94,7 +94,7 @@ I specialize in transforming complex AI concepts into **real-world, production-r
 
 ## 📫 Connect With Me
 
-- 📧 Email: adityabhagat350@gmail.com  
+- 📧 Email: siddheshwarbhagat555@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/siddheshwar-bhagat-b70613236  
 - 💻 GitHub: https://github.com/bhagatsidd555  
 
