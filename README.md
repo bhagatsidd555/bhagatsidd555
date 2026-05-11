@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddheshwar Bhagat
 
-🚀 ** AI Engineer | Generative AI | RAG Systems | Backend AI Developer**
+🚀  AI Engineer | Generative AI | RAG Systems | Backend AI Developer
 
 I am an AI Engineer with 2+ years of experience building **scalable AI-powered systems**, enterprise-grade **RAG pipelines**, and **customer-facing AI products**.
 
