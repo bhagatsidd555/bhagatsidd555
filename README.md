@@ -10,7 +10,7 @@ I specialize in transforming complex AI concepts into **real-world, production-r
 
 ## 💼 Professional Experience
 
-### 🧠 AI Engineer — Maxgen Technology (Feb 2024 – Present)
+### 🧠 AI/ML Engineer — Maxgen Technology (Feb 2024 – July 2026)
 
 - Led development of an **AI-driven airport energy optimization system**
 - Achieved **20–30% reduction in energy consumption**
@@ -19,7 +19,17 @@ I specialize in transforming complex AI concepts into **real-world, production-r
 - Designed monitoring dashboards reducing manual effort by **35%**
 - Collaborated with clients → improved satisfaction by **25%**
 
----
+
+### 🧠 AI/ML Engineer — smartData Enterprises Inc (July  2026 – Present)
+Developed an AI-powered document intelligence system to automatically extract Door Hardware
+Sets from architectural specification PDFs using Retrieval-Augmented Generation (RAG) with
+page-level indexing.
+• Implemented geometry-aware PDF table extraction to accurately process borderless tables and
+preserve row-wise relationships between hardware components and their attributes.
+• Developed automated Excel report generation with structured hardware data for estimator review
+and downstream processing.
+• Improved extraction accuracy by handling inconsistent hardware naming, filtering invalid records,
+and implementing data deduplication and validation logic
 
 ### 📊 Data Scientist Intern — PHN Technology (Apr 2023 – Jul 2023)
 
